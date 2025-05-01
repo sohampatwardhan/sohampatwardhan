@@ -11,7 +11,7 @@ My current areas of study include:
 
 Let's connect!
 
-[LinkedIn](https://linkedin.com/in/sohampatwardhan149) | [NUworks](https://northeastern-csm.symplicity.com/profiles/soham.patwardhan) | [ORCID](https://orcid.org/0000-0001-7257-0422)
+[LinkedIn](https://linkedin.com/in/sohampatwardhan149) | [NUworks](https://northeastern-csm.symplicity.com/profiles/soham.patwardhan) | [ORCID](https://orcid.org/0000-0001-7257-0422) | [Reddit](https://reddit.com/u/sohampatwardhan)
 
 <!--
 **sohampatwardhan/sohampatwardhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
