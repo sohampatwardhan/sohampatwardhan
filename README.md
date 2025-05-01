@@ -1,6 +1,13 @@
 ## Hi there 👋
 
-I am currently studying for a Master of Science degree in Cyber-Physical Systems at Northeastern University, having recently graduated from the Univeristy of Nottingham with a Bachelor of Engineering degree in Electronic and Computer Engineering.
+Thank you for stopping by my GitHub profile. I am currently studying for a Master of Science degree in Cyber-Physical Systems at Northeastern University, having recently graduated from the Univeristy of Nottingham with a Bachelor of Engineering degree in Electronic and Computer Engineering.
+
+My current areas of study include:
+
+* Machine Learning Algorithms
+* Network Analysis
+* Object-Oriented Programming in Java
+* Embedded System Software Development using C++ and FreeRTOS
 
 Let's connect!
 
