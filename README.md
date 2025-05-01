@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Thank you for stopping by my GitHub profile. I am currently studying for a Master of Science degree in Cyber-Physical Systems at Northeastern University, having recently graduated from the Univeristy of Nottingham with a Bachelor of Engineering degree in Electronic and Computer Engineering.
+Thank you for stopping by my GitHub profile. I am currently studying for a Master of Science degree in Cyber-Physical Systems at Northeastern University, having recently graduated with a Bachelor of Engineering degree in Electronic and Computer Engineering from the Univeristy of Nottingham.
 
 My current areas of study include:
 
