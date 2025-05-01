@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am currently studying for a Master of Science degree in Cyber-Physical Systems at Northeastern University, having recently graduated from the Univeristy of Nottingham with a Bachelor of Engineering degree in Electronic and Computer Engineering.
+
+Let's connect!
+
+- [LinkedIn](https://linkedin.com/in/sohampatwardhan149)
+
 <!--
 **sohampatwardhan/sohampatwardhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
