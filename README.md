@@ -52,7 +52,7 @@ timeline
 
 ### Let's connect!
 
-[LinkedIn](https://linkedin.com/in/sohampatwardhan149) | [NUworks](https://northeastern-csm.symplicity.com/profiles/soham.patwardhan) | [Credly](https://www.credly.com/users/soham-patwardhan.03e8b3a6/) | [ORCID](https://orcid.org/0000-0001-7257-0422) | [Reddit](https://reddit.com/u/sohampatwardhan)
+[LinkedIn](https://linkedin.com/in/sohampatwardhan149) | [NUworks](https://northeastern-csm.symplicity.com/profiles/soham.patwardhan) | [Credly](https://www.credly.com/users/sohampatwardhan/) | [ORCID](https://orcid.org/0000-0001-7257-0422) | [Reddit](https://reddit.com/u/sohampatwardhan)
 
 <!--
 **sohampatwardhan/sohampatwardhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
