@@ -4,8 +4,6 @@ Thank you for stopping by my GitHub profile. I am currently studying for a Maste
 
 My current areas of study include:
 
-* Machine Learning Algorithms
-* Network Analysis
 * Object-Oriented Programming in Java
 * Embedded System Software Development using C++ and FreeRTOS
 
