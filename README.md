@@ -9,7 +9,7 @@ My current areas of study include:
 * Object-Oriented Programming in Java
 * Embedded System Software Development using C++ and FreeRTOS
 
-Past Study:
+### Courses Taken:
 
 ```mermaid
 
@@ -20,12 +20,14 @@ timeline
                             : Information and Systems
                             : Fundamental Engineering Mathematics
                             : Applied Electrical and Electronic Engineering: Practical Project
+
     Undergraduate<br>Year 2 : Design and Implementation of Engineering Software
                             : Contemporary Engineering Themes B
                             : Electrical Energy Conditioning and Control
                             : Electronic Processing and Communications
                             : Modelling- Methods and Tools
                             : Practical Engineering Design Solutions and Project Development
+
     Undergraduate<br>Year 3 : Scalable Cross-Platform Software Design
                             : IT Infrastructure and Cybersecurity
                             : Analogue Electronics
@@ -33,16 +35,26 @@ timeline
                             : Renewable Generation Technologies
                             : Professional Studies
                             : Final Year Project
+
     Graduate<br>2025        : Machine Learning for IoT Systems
                             : Fundamentals of the Internet of Things
                             : Embedded Systems for IoT
                             : Concepts of Object-Oriented Design
 
+    Graduate<br>2026        : Coming Soon
+
 ```
 
-Let's connect!
+### Certifications earned
 
-[LinkedIn](https://linkedin.com/in/sohampatwardhan149) | [NUworks](https://northeastern-csm.symplicity.com/profiles/soham.patwardhan) | [ORCID](https://orcid.org/0000-0001-7257-0422) | [Reddit](https://reddit.com/u/sohampatwardhan)
+* [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/58cd4242-2597-4c6e-a31a-fe79deb416dd/public_url)
+  * Certification Cycle: Oct 1, 2025 - Sep 30, 2028
+  * Certified since: 2025
+
+
+### Let's connect!
+
+[LinkedIn](https://linkedin.com/in/sohampatwardhan149) | [NUworks](https://northeastern-csm.symplicity.com/profiles/soham.patwardhan) | [Credly](https://www.credly.com/users/soham-patwardhan.03e8b3a6/) | [ORCID](https://orcid.org/0000-0001-7257-0422) | [Reddit](https://reddit.com/u/sohampatwardhan)
 
 <!--
 **sohampatwardhan/sohampatwardhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
