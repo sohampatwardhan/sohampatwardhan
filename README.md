@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Thank you for stopping by my GitHub profile. I am currently on a co-op at @ThriveIEP, an ed-tech startup in Cambridge, MA, working as a full-stack developer. I am currently pursuing a Master of Science degree in Cyber-Physical Systems at Northeastern University (Boston, MA), expecting to graduate in April 2027.
+Thank you for stopping by my GitHub profile. I am currently on a co-op at @ThriveIEP, an ed-tech startup in Cambridge, MA, working as a full-stack developer. I am pursuing a Master of Science degree in Cyber-Physical Systems at Northeastern University (Boston, MA), expecting to graduate in April 2027.
 
 I hold a Bachelor of Engineering degree in Electronic and Computer Engineering from the Univeristy of Nottingham in the UK, having graduated in December 2024.
 
