@@ -1,11 +1,8 @@
 ## Hi there 👋
 
-Thank you for stopping by my GitHub profile. I am currently studying for a Master of Science degree in Cyber-Physical Systems at Northeastern University, having recently graduated with a Bachelor of Engineering degree in Electronic and Computer Engineering from the Univeristy of Nottingham.
+Thank you for stopping by my GitHub profile. I am currently on a co-op at @ThriveIEP, an ed-tech startup in Cambridge, MA, working as a full-stack developer. I am currently pursuing a Master of Science degree in Cyber-Physical Systems at Northeastern University (Boston, MA), expecting to graduate in April 2027.
 
-My current areas of study include:
-
-* Object-Oriented Programming in Java
-* Embedded System Software Development using C++ and FreeRTOS
+I hold a Bachelor of Engineering degree in Electronic and Computer Engineering from the Univeristy of Nottingham in the UK, having graduated in December 2024.
 
 ### Courses Taken:
 
@@ -39,7 +36,7 @@ timeline
                             : Embedded Systems for IoT
                             : Concepts of Object-Oriented Design
 
-    Graduate<br>2026        : Coming Soon
+    Graduate<br>2026        : Full-Stack Software Engineer Co-op
 
 ```
 
