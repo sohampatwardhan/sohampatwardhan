@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Thank you for stopping by my GitHub profile. I am pursuing a Master of Science degree in Cyber-Physical Systems at Northeastern University (Boston, MA), having completed my full-stack engineering co-op at ThriveIEP, an ed-tech startup based in the Greater Boston area, in August.
+Thank you for stopping by my GitHub profile! I am pursuing a Master of Science degree in Cyber-Physical Systems at Northeastern University (Boston, MA), having completed my full-stack engineering co-op at ThriveIEP, an ed-tech startup based in the Greater Boston area, in August.
 
 I am currently taking the _Connected Devices_ course (based on the [Programming the IoT](https://github.com/programming-the-iot) textbook), taught by Andy King, and working on a project titled _Secure Boot and Intrusion Detection for Cyber-Physical IoT Devices under Physical and Network Attacks_. I am expecting to graduate in May 2027 and am open to opportunities following graduation.
 
@@ -52,6 +52,9 @@ timeline
   * Certification Cycle: Oct 1, 2025 - Sep 30, 2028
   * Certified since: 2025
 
+## Certifications of interest
+
+* [Claude Certified Associate - Foundations (CCA-F)](https://anthropic-partners.skilljar.com/claude-certified-associate-foundations-certification)
 
 ## Let's connect!
 
