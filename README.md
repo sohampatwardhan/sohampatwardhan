@@ -54,8 +54,8 @@ timeline
 
 ## Certifications of interest
 
-* [Claude Certified Associate - Foundations](https://anthropic-partners.skilljar.com/path/claude-certified-associate-foundations-certification)
-* [Claude Certified Developer - Foundations](https://anthropic-partners.skilljar.com/path/claude-certified-developer-foundations-certification)
+* [Claude Certified Associate - Foundations](https://anthropic-partners.skilljar.com/claude-certified-associate-foundations-certification)
+* [Claude Certified Developer - Foundations](https://anthropic-partners.skilljar.com/claude-certified-developer-foundations-certification)
 * [Claude Certified Architect - Foundations](https://anthropic-partners.skilljar.com/claude-certified-architect-foundations-certification)
 * [Claude Certified Architect - Professional](https://anthropic-partners.skilljar.com/claude-certified-architect-professional-certification)
 
