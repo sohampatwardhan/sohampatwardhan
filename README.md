@@ -1,6 +1,8 @@
 # Hi there 👋
 
-Thank you for stopping by my GitHub profile. I am pursuing a Master of Science degree in Cyber-Physical Systems at Northeastern University (Boston, MA), having recently completed my full-stack engineering co-op at ThriveIEP, an ed-tech startup based in the Greater Boston area, in August 2026. I am currently taking the _Connected Devices_ course and working on a project titled _Secure Boot and Intrusion Detection for Cyber-Physical IoT Devices under Physical and Network Attacks_, and am expecting to graduate in May 2027.
+Thank you for stopping by my GitHub profile. I am pursuing a Master of Science degree in Cyber-Physical Systems at Northeastern University (Boston, MA), having completed my full-stack engineering co-op at ThriveIEP, an ed-tech startup based in the Greater Boston area, in August.
+
+I am currently taking the _Connected Devices_ course taught by Andy King (based on the @programming-the-iot textbook) and working on a project titled _Secure Boot and Intrusion Detection for Cyber-Physical IoT Devices under Physical and Network Attacks_, and am expecting to graduate in May 2027.
 
 I hold a Bachelor of Engineering degree in Electronic and Computer Engineering from the University of Nottingham in the UK, having graduated in December 2024.
 
